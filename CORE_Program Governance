@@ -1,0 +1,21 @@
+Open-Source Governance and Development
+<p>
+    <strong>Latest page content update:</strong> 24 Nov 2022
+</p>
+<h3>
+    Open-Source Governance and Development
+</h3>
+<p>
+    During the summer of 2022, after completion of the initial set of executable Conformance Rules (for SDTM 3.4) and release of the evaluation version of the CORE Engine Reference Implementation, CDISC transitioned the CORE project from a traditional CDISC-led project to an open-source framework. The transition focuses on:
+</p>
+<ol>
+    <li>
+        Establishment of a CORE Roadmap Board and CORE Technical Committee to guide and coordinate further Engine Reference Implementation development as open-source and to coordinate with CDISC on CDISC’s further Conformance Rules development.
+    </li>
+    <li>
+        Establishment of the CORE Engine Reference Implementation software as open-source by making it publicly available in GitHub and registering it with COSA (CDISC Open-source Software Alliance). Further Engine Reference Implementation development will be conducted under the MIT open-source license by a volunteer, open-source development team.
+    </li>
+</ol>
+<p>
+    The following graphic illustrates the full open-source framework for further CORE development. The framework centers on the CORE Roadmap Board and CORE Technical Committee and involves CDISC staff, industry volunteers, and commercial software vendors.
+</p>
